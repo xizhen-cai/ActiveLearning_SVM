@@ -6,5 +6,5 @@ This repository include datasets and R code for the paper "Active_learning Class
 - handwriting4and6.csv contains the handwritten digit datast for the Example 
 
 ## R code 
-- The file "R" code for figures using PK data.R" contains code to create all figures based on the PK dataset in the manuscript and in the Class Activity Worksheet and its solutions.
+- The file "R code for figures using PK data.R" contains code to create all figures based on the PK dataset in the manuscript and in the Class Activity Worksheet and its solutions.
 - The file "R" code for figures using admission data.R" contains code to create all figures based on the admission dataset in the manuscript and in the Class Activity Worksheet and its solutions. 
